@@ -3,18 +3,7 @@
 ## 📊 Project Overview
 This project analyzes a comprehensive movies dataset containing information about films including ratings, genres, financial data, cast, and production details.
 
-## 📁 Project Structure
-```
-CSV Files/
-├── moviescsv.csv                 # Original movies dataset
-├── movies_cleaned.csv            # Cleaned dataset with NULLs filled
-├── moviescsvfile.numbers         # Original Apple Numbers file
-├── analyze_movies.py             # Data analysis script
-├── fill_movie_nulls_python.py    # NULL handling script
-├── import_movies.py              # Data import script
-├── fill_movie_nulls.sql          # SQL NULL handling (alternative)
-└── README.md                     # This file
-```
+
 
 ## 🎯 Dataset Information
 - **Total Movies**: 7,668 films
